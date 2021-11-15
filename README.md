@@ -6,13 +6,13 @@ School district data on standardized reading and math test scores as well as on 
 ## Results
 The analysis were first conducted with the whole sample, which consisted of 15 schools and 39,170 students. As there was evidence of misconduct, analysis were rerun excluding the reading and math scores for Thomas High School 9th grade students (n = 461). The results will center on reporting the results for the second analysis. Differences between results from the two analysis will be noted.
 
-- District Summary
+### District Summary
 Table 1 shows a summary of the district overall outcome measures. As seen in Table 1, the majority of students in the school district scored higher than the passing grade (set as 70) for math (74.8% of students passed) and reading (85.7% of students passed). This summary was only slightly affected by the exclusion of the Thomas High School 9th grade scores. All averages and percentages decreased slightly with the greater drop happening in the Overall Passing percentage from 65.2% to 64.9%. 
 
 Table 1. District Summary
 ![Table_1](https://user-images.githubusercontent.com/89421440/141709118-a9831008-3dcf-4028-81aa-edacde135e44.png)
 
-- School Summary 
+### School Summary 
 Table 2 details the district summary by school. As seen in Table 2, schools vary by the total number of students and total budget they receive, but the rate of school budget per student remains in a range from $500 to $700. With respect to average scores and percentages of passing grades, it is possible to observe that the performances of schools vary more for math compared to reading.
 
 *********Insert Table 2. School Summary
