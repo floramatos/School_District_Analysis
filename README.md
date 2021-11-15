@@ -19,17 +19,17 @@ Table 2 details the district summary by school. As seen in Table 2, schools vary
 
 Again, the exclusion of the Thomas High School 9th grade scores had only a minimal effect on this school’s summary outcomes. All averages and percentages decreased a maximum of 3 decimal points, which would not be considered a statistically significant difference.
 
-- Top Performing Schools 
+### Top Performing Schools 
 As shown in Table 3, the school with best overall passing percentages was Cabrera High School with over 91% of students achieving math and reading passing grades.
 
 *********Insert Table 3. Top Schools
 
 The exclusion of the scores from 9th grade students didn’t affect Thomas High School position rank. Thomas High School was still the second best performing schools with over 90% of students achieving math and reading passing grades.
 
-- Further Score Analysis
+### Further Score Analysis
 The following analysis weren’t affect by the exclusion of the scores from Thomas High School 9th grade students:
 	
-	- Math and reading scores by grade:
+- Math and reading scores by grade:
 As seen in Table 4, reading scores were relative constant among schools and grades, ranging 80 to 90.
 
 *********Insert Table 4. Reading Scores
@@ -38,20 +38,20 @@ As seen in Table 5, math scores varied more compared to reading scores. The vari
 
  *********Insert Table 5. Math Scores
 
-  - Scores by school spending
+- Scores by school spending
 Table 6 displays students’ scores by the range amount each school spends per student. It seems that schools that spend less with each students perform better than schools that spend more. This result is counterintuitive and may require further investigation to inform school decisions
 
  *********Insert Table 6. Scores by School Spending
 
-  - Scores by school size
+- Scores by school size
 Table 7 shows how scores varied by the size of schools. It appears that larger schools tend to perform more poorly, specially in math, compared to smaller schools.
 
  *********Insert Table 7. Scores by School Size
 
-  - Scores by school type
+- Scores by school type
 As seen in Table 8, students in charter schools seems to perform  better, especially in math, compared to students in district schools.
 
  *********Insert Table 8. Scores by School Type
 
-##Summary
+## Summary
 In sum, excluding the reading and math scores for Thomas High School 9th grade students did not lead to striking differences in the school district analysis. The main differences concerned the adjustment of averages and percentages values for the district and the school summaries.
