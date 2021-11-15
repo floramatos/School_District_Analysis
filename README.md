@@ -31,15 +31,17 @@ The exclusion of the scores from 9th grade students didn’t affect Thomas High 
 ### Further Score Analysis
 The following analysis weren’t affect by the exclusion of the scores from Thomas High School 9th grade students:
 	
-#### Math and reading scores by grade:
+#### Math and reading scores by grade
 As seen in Table 4, reading scores were relative constant among schools and grades, ranging 80 to 90.
 
 Table 4. Reading Scores
+
 ![Table_4](https://user-images.githubusercontent.com/89421440/141731912-8637b3eb-c909-47c4-b5a2-cbe7463aff6b.png)
 
 As seen in Table 5, math scores varied more compared to reading scores. The variation in scores seems to point to differences between schools rather than differences between grade levels. That is, math scores across grades in one school varied less than math scores across schools in the same grade.
 
 Table 5. Math Scores
+
 ![Table_5](https://user-images.githubusercontent.com/89421440/141731971-c63cf074-1a08-4b9e-ab12-2caeabb0dab8.png)
 
 #### Scores by school spending
@@ -52,12 +54,14 @@ Table 6. Scores by School Spending
 Table 7 shows how scores varied by the size of schools. It appears that larger schools tend to perform more poorly, specially in math, compared to smaller schools.
 
 Table 7. Scores by School Size
+
 ![Table_7](https://user-images.githubusercontent.com/89421440/141732027-79e3f12f-226b-41bc-9a93-583c23d31274.png)
 
 #### Scores by school type
 As seen in Table 8, students in charter schools seems to perform  better, especially in math, compared to students in district schools.
 
 Table 8. Scores by School Type
+
 ![Table_8](https://user-images.githubusercontent.com/89421440/141732061-ae4741b9-5a61-4561-96cc-82297e695289.png)
 
 ## Summary
