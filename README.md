@@ -48,6 +48,7 @@ Table 5. Math Scores
 Table 6 displays students’ scores by the range amount each school spends per student. It seems that schools that spend less with each students perform better than schools that spend more. This result is counterintuitive and may require further investigation to inform school decisions
 
 Table 6. Scores by School Spending
+
 ![Table_6](https://user-images.githubusercontent.com/89421440/141731999-f6e8b219-8ac8-4e92-a335-222abe6eb756.png)
 
 #### Scores by school size
